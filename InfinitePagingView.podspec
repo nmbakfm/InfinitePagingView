@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/caesarcat/InfinitePagingView"
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.author       = { "SHIGETA Takuji" => "shigeta@qnote.co.jp" }
-  s.source       = { :git => "https://github.com/nmbakfm/InfinitePagingView.git", :tag => "0.0.3"}
+  s.source       = { :git => "https://github.com/nmbakfm/InfinitePagingView.git"}
   s.platform     = :ios
 
   s.source_files = 'Classes', 'Classes/**/*.{h,m}'
